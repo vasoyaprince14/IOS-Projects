@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ApplePie
 //
-//  Created by Prince vasoya on 3/20/2024.
-
+//  Created by Doan Le Thieu on 3/20/18.
+//  Copyright © 2018 Doan Le Thieu. All rights reserved.
 //
 
 import UIKit
