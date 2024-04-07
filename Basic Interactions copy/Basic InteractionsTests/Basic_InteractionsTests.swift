@@ -1,10 +1,9 @@
 //
-//  Basic_InteractionsTests.swift
-//  Basic InteractionsTests
+//  AppDelegate.swift
+//  Basic Interactions
 //
-//  Created by Piyush saini on 07/03/24.
+//  Created by Prince Vasoya on 07/03/24.
 //
-
 import XCTest
 @testable import Basic_Interactions
 
