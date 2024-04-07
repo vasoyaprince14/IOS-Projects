@@ -1,10 +1,9 @@
 //
-//  Game.swift
+//  AppDelegate.swift
 //  ApplePie
 //
-//  Created by Doan Le Thieu on 3/20/18.
-//  Copyright © 2018 Doan Le Thieu. All rights reserved.
-//
+//  Created by Prince vasoya on 3/20/24.
+
 
 import Foundation
 
